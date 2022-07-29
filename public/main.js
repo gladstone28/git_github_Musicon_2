@@ -37,6 +37,14 @@ const context = {
       price: "$649.00",
       sale: "$349.00",
     },
+    {
+      image:
+        "https://content.codecademy.com/courses/learn-handlebars/musicon/violin.png",
+      name: "Violin",
+      description:
+        "A versatile instrument that is suited for any and all occasions. Those wearing tuxedos can strum together a classic. Others who prefer overalls can call it a fiddle and play some folk songs.",
+      price: "245.00",
+    },
   ],
 };
 const templateElement = document.getElementById("templateHB");
